@@ -1,0 +1,29 @@
+{
+  "name": "desafio-modulo-2",
+  "version": "1.0.0",
+  "description": "Esse projeto foi desenvolvido para o desafio de encerramento do modulo 2 do curso da Cubos Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThamysCardoso/Desafio-2---Cubos-Academy.git"
+  },
+  "keywords": [
+    "Javascript",
+    "node.js",
+    "desafio"
+  ],
+  "author": "Thamirys Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThamysCardoso/Desafio-2---Cubos-Academy/issues"
+  },
+  "homepage": "https://github.com/ThamysCardoso/Desafio-2---Cubos-Academy#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "loadash": "^1.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
